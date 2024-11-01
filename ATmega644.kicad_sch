@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "066fdc6a-4061-4890-84c4-535c0fe736dc")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 41.91 69.85)
+		(size 27.94 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0035a739-943d-4799-871e-3ab3f5450df3")
+		(property "Sheetname" "MCU"
+			(at 41.91 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 41.91 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 40.64)
+		(size 20.32 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "06ee65bc-8544-47fc-91a7-984adc4476b3")
+		(property "Sheetname" "Mounting"
+			(at 152.4 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mounting.kicad_sch"
+			(at 152.4 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 82.55 69.85)
+		(size 25.4 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e75f5fa-1839-4cce-bce6-20ef664a7c3f")
+		(property "Sheetname" "Serial"
+			(at 82.55 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "serial.kicad_sch"
+			(at 82.55 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 73.66)
+		(size 26.67 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "346ef1fc-24b8-4748-a89f-6b5284512bb6")
+		(property "Sheetname" "Buttons"
+			(at 120.65 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buttons.kicad_sch"
+			(at 120.65 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 40.64)
+		(size 27.94 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39850630-eb20-490c-a713-02817fb39197")
+		(property "Sheetname" "LCD"
+			(at 119.38 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd.kicad_sch"
+			(at 119.38 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 40.64)
+		(size 30.48 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39de92aa-dd23-4155-b7c2-b624b59b9a4d")
+		(property "Sheetname" "PowerSupply"
+			(at 40.64 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply.kicad_sch"
+			(at 40.64 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 82.55 40.64)
+		(size 24.13 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de88a980-cdf1-4d66-a6af-13c48473d3b3")
+		(property "Sheetname" "PORTS"
+			(at 82.55 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "porta.kicad_sch"
+			(at 82.55 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ATmega644"
+				(path "/066fdc6a-4061-4890-84c4-535c0fe736dc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
