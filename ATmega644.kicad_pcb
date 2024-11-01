@@ -32014,8 +32014,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ATmega1284p Development Board\n2024-10-13\n<chris.goertz@gmx.de>\n"
-		(at 66.75 84.75 270)
+	(gr_text "ATmega1284p Development Board\n2024-10-13\nhttps://github.com/chrisgoertz/ATmega1284p_DevBoard.git\n"
+		(at 65.5 61.5 270)
 		(layer "F.SilkS")
 		(uuid "0a2ddf55-34ba-4ab1-9ce0-cabfb21580b4")
 		(effects
